@@ -3317,4 +3317,4 @@ hours = 12;
 
 
 client.login(process.env.BOT_TOKEN);
-			      client.login("");
+			      client.login("NTMxMTI2MTQyOTcxNjc0NjI1.DxJaAw.tPFPrq5HMN4OZgHOhWbkNuRuzQ0");
